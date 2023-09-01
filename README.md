@@ -1,7 +1,7 @@
 # 🥷 About Me:
 Hello! I'm Marco Blanco, a biomedical engineer, reinvented developer.<br><br>Java, Spring and microservices lover.<br>I was also seduced by Angular and JavaScript for short periods.<br><br>I'm focused on some personal projects, useful for honing my skills.
 <br><br><br>
-🩱 今ここで 限界を超えろ "Ima koko de genkai o koero" ✒️ Yami Sukehiro
+<b>今ここで 限界を超えろ "Ima koko de genkai o koero"<b> ✒️ Yami Sukehiro
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/marco-blanco) 
