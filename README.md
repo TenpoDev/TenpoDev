@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hello! I'm Marco Blanco, a biomedical engineer, reinvented developer.<br><br>Java, Spring and microservices lover.<br>I was also seduced by Angular and JavaScript for short periods.<br><br>I'm focused on some personal projects, useful for honing my skills.
-
+<br><br><br><br>
+今ここで 限界を超えろ "Ima koko de genkai o koero" -Yami Sukehiro
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/marco-blanco) 
@@ -12,8 +13,8 @@ Hello! I'm Marco Blanco, a biomedical engineer, reinvented developer.<br><br>Jav
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TenpoDev&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TenpoDev&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Quote
-![](今ここで 限界を超えろ "Ima koko de genkai o koero" -Yami Sukehiro)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TenpoDev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
